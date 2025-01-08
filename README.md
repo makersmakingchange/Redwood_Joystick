@@ -4,10 +4,6 @@ Open Source Assistive Technology: GitHub Readme Template
 Version 1.1 (2024-Mar-15)
  --->
 
-<!--- 
-Introductory text. This section and the following text should be removed.
- --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [Documentation_Guide](/Documentation_Guide.docx). You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
 
 <!---
 INSTRUCTIONS
@@ -27,26 +23,23 @@ This template has a number of fields that can be searched and replaced with othe
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
-# <DeviceName>
-
+# Redwood Joystick
 
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The <DeviceName> is an assistive technology widget that makes it easier to document Open-Source Assistive Technology devices. 
-
-It is intended for use by makers. 
+The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our Oak Compact Joystick toppers, it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. 
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+The overall cost of materials is about $90.5 CAD.
 
-<img src="Photos/<Device_Name>.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/Redwood_Joystick.jpg" width="500" alt="Picture of <DeviceName>.">
 
 ## More info at
-- [Makers Making Change Assistive Device Library Listing](<MMCWebLink>)
+- [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/redwood-joystick/01tJR000006skOzYAI)
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -55,7 +48,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](<MMCWebLink>) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
+You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/redwood-joystick/01tJR000006skOzYAI) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
 
 ### 3. Build this device for someone else
 
@@ -66,21 +59,18 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/Redwood_Joystick_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Redwood_Joystick_BOM.xlsx) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
-
-Reference the [Assembly Guide](/Documentation/<Device_Name>_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -89,10 +79,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<DeviceName>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<DeviceName>_Maker_Checklist](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<DeviceName>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<DeviceName>_User_Guide](/Documentation/<Device_Name>_Quick_Guide.pdf)    |
+| Design Rationale     | 1.0     | [Redwood_Joystick_Design_Rationale](/Documentation/Redwood_Joystick_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [Redwood_Joystick_Maker_Checklist](/Documentation/Redwood_Joystick_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Redwood_Joystick_Bill_of_Materials](/Documentation/Redwood_Joystick_BOM.xlsx)     |
+| User Guide           | 1.0     | [Redwood_Joystick_User_Guide](/Documentation/Redwood_Joystick_Quick_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
@@ -101,7 +91,6 @@ DESIGN FILES
 Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP)
 --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
 
 <!---
 BUILD FILES
@@ -109,8 +98,6 @@ Include a copy of the build files intended for manufacturing. This may include s
 --->
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
 
 <!---
 ATTRIBUTION
@@ -118,7 +105,7 @@ Provide any necessary attribution for designs or components that are included in
 --->
 ## Attribution
 
-The device was designed by <DesignerName>. 
+Designed by Neil Squire Society / Makers Making Change.
 
 <!---
 This is the attribution for the template.
@@ -132,8 +119,7 @@ List the names of the people that contributed to the design. This could include 
 ### Contributors
 
 Designers:
- - Designer 1 
- - Designer 2
+ - Tyler Fentie
 
 
 <!---
@@ -146,7 +132,7 @@ Copyright (c) YYYY <DesignerName>.
 This repository describes Open Hardware:
  - Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
  - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
- - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+ - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Redwood Joystick are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
