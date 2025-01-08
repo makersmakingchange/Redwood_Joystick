@@ -30,7 +30,7 @@ Should match the name of the GitHub repository. Choose something descriptive rat
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our Oak Compact Joystick toppers, it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
+The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our [Oak Compact Joystick toppers](https://github.com/makersmakingchange/Oak-Compact-Joystick/tree/main/Build_Files/3D_Printing_Files/Toppers), it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. 
 
