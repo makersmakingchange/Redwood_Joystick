@@ -1,0 +1,73 @@
+title: Redwood Joystick
+description: "The Redwood Joystick is a robust analog USB joystick designed for users with
+  gross motor movement and high strength. Its durable build ensures reliable
+  performance for digital access and adaptive gaming. "
+intended-use: The Redwood Joystick is designed for users with gross motor movement and high
+  strength, providing a durable and reliable solution for adaptive gaming and
+  digital access. With its USB connection, it functions seamlessly as a computer
+  mouse or gamepad, offering flexibility to suit your needs. Compatible with our
+  Oak Compact Joystick toppers, it can be customized with options like goalpost
+  or concave designs for personalized comfort. The joystick’s robust
+  construction ensures it withstands heavy use, while its mounting adapters
+  allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts,
+  ensuring a stable and accessible setup in any environment.
+keywords:
+  - Assistive Technology
+  - Joystick
+  - Adaptive Gaming
+  - Digital Access
+  - Mouse
+project-link: https://github.com/makersmakingchange/Redwood_Joystick/tree/main
+image: https://github.com/makersmakingchange/Redwood_Joystick/tree/main/Photos
+made: true
+made-independently: true
+license:
+  hardware: CERN-OHL-W-2.0
+  documentation: CC-BY-SA-4.0
+okh-manifest-version: 1.0.0
+date-updated: 2025-01-08
+manifest-author:
+  name: Tyler Fentie
+  affiliation: Neil Squire Employee
+  email: tylerf@neilsquire.ca
+manifest-language: en-CA
+contact:
+  name: Tyler Fentie
+  affiliation: Neil Squire Employee
+  email: tylerf@neilsquire.ca
+  social:
+    - platform: Makers Making Change
+      user-handle: https://www.makersmakingchange.com/
+    - platform: Twitter
+      user-handle: https://twitter.com/makermakechange
+    - platform: Instagram
+      user-handle: https://www.instagram.com/makersmakingchange
+    - platform: Facebook
+      user-handle: https://www.facebook.com/makersmakechange
+    - platform: LinkedIn
+      user-handle: https://www.linkedin.com/company/neil-squire-society/
+contributors:
+  - name: Tyler Fentie
+    affiliation: Neil Squire Employee
+    email: tylerf@neilsquire.ca
+version: "1.0"
+development-stage: product
+documentation-home: https://github.com/makersmakingchange/Redwood_Joystick/tree/main
+archive-download: https://github.com/makersmakingchange/Redwood_Joystick/tree/main
+design-files:
+  - path: https://github.com/makersmakingchange/Redwood_Joystick/tree/main/Design_Files/CAD_Design_Files
+    title: Design Files
+documentation-language: en-CA
+bom: https://github.com/makersmakingchange/Redwood_Joystick/blob/main/Documentation/Working_Documents/Redwood_Joystick_BOM.xlsx
+making-instructions:
+  - path: https://github.com/makersmakingchange/Redwood_Joystick/blob/main/Documentation/Working_Documents/Redwood_Joystick_Maker_Guide.docx
+    title: Maker Guide
+manufacturing-files:
+  - path: https://github.com/makersmakingchange/Redwood_Joystick/tree/main/Build_Files/3D_Printing_Files
+    title: 3D print files
+operating-instructions:
+  - path: https://github.com/makersmakingchange/Redwood_Joystick/blob/main/Documentation/Working_Documents/Redwood_Joystick_User_Guide.docx
+    title: User Guide
+derivative-of:
+  title: UltraStik Analog Joystick Enclosure
+  web: https://www.printables.com/model/268854-ultrastik-analog-joystick-enclosure
