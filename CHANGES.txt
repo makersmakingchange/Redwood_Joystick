@@ -1,5 +1,8 @@
-Version 0.1 | YYYY-mmm-DD
- - Initial Prototype
+Version 1.0 | 2025-01-09
+ - First publish of the Redwood Joystick
+ - Designed enclosure and topper adapter for Ultimarc Ultrastik 360 joystick to have a more robust joystick in the library
+ - full documentation was created for this project
+ - Both maker and user testing was conducted
 
 
 
