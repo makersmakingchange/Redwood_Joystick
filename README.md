@@ -81,8 +81,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Redwood_Joystick_Design_Rationale](/Documentation/Redwood_Joystick_Design_Rationale.pdf)     |
 | Maker Guide          | 1.0     | [Redwood_Joystick_Maker_Checklist](/Documentation/Redwood_Joystick_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [Redwood_Joystick_Bill_of_Materials](/Documentation/Redwood_Joystick_BOM.xlsx)     |
-| User Guide           | 1.0     | [Redwood_Joystick_User_Guide](/Documentation/Redwood_Joystick_Quick_Guide.pdf)    |
+| Bill of Materials    | 1.0     | [Redwood_Joystick_Bill_of_Materials](/Documentation/Redwood_Joystick_BOM.csv)     |
+| User Guide           | 1.0     | [Redwood_Joystick_User_Guide](/Documentation/Redwood_Joystick_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
