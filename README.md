@@ -29,12 +29,12 @@ Should match the name of the GitHub repository. Choose something descriptive rat
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
- --->
+ ---> 
 The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our [Oak Compact Joystick toppers](https://github.com/makersmakingchange/Oak-Compact-Joystick/tree/main/Build_Files/3D_Printing_Files/Toppers), it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
 
-The device is comprised of off-the-shelf electronics and 3D printed parts. 
+The device is comprised of off-the-shelf electronics, hardware, and 3D printed parts. The design uses the Ultimarc [Ultrastik analog 360 joystick](https://www.ultimarc.com/arcade-controls/joysticks/ultrastik-360-oval-top-clone/) in a robust 3D printed enclosure.
 
-The overall cost of materials is about $90.5 CAD.
+The overall cost of materials is about $97 CAD. You will need to pay customs fees if you are outside of the USA and the product can take up to 1 week to ship. Consider this in comparison to the other parts that are more readily available.
 
 <img src="Photos/Redwood_Joystick.jpg" width="500" alt="Picture of <DeviceName>.">
 
@@ -127,10 +127,10 @@ LICENSE
 Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials.
 --->
 ## License
-Copyright (c) YYYY <DesignerName>.
+Copyright (c) 2025 Redwood Joystick.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+ - Everything needed or used to design, make, test, or prepare the Redwood Joystick is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
  - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Redwood Joystick are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
@@ -138,7 +138,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link> 
+Source Location: https://github.com/makersmakingchange/Redwood_Joystick/tree/main
 
 
 ---
