@@ -64,7 +64,7 @@ The [Maker Guide](/Documentation/Redwood_Joystick_Maker_Guide.pdf)  contains all
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Redwood_Joystick_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Redwood_Joystick_BOM.csv) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
