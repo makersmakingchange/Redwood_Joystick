@@ -4,6 +4,9 @@ Version 1.0 | 2025-01-09
  - full documentation was created for this project
  - Both maker and user testing was conducted
 
+Version 1.1 | 2025-03-04
+- Created topper nut adapter so the Oval Topper version of the Ultrastik can be used
+- Modified documentation to include proper links to the Oval Topper version of the Ultrastik
 
 
 
