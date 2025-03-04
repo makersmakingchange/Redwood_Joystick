@@ -36,7 +36,7 @@ The device is comprised of off-the-shelf electronics, hardware, and 3D printed p
 
 The overall cost of materials is about $97 CAD. You will need to pay customs fees if you are outside of the USA and the product can take up to 1 week to ship. Consider this in comparison to the other parts that are more readily available.
 
-<img src="Photos/Redwood_Joystick.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/Redwood_Joystick.jpg" width="500" alt="Picture of Redwood Joystick.">
 
 ## More info at
 - [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/redwood-joystick/01tJR000006skOzYAI)
