@@ -1,35 +1,9 @@
+<!--- Open Source Assistive Technology: GitHub Readme Template Version 1.1 (2024-Mar-15)  --->
 
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
-Version 1.1 (2024-Mar-15)
- --->
-
-
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <RepositoryLink> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
- - <MMCWebLink> This is an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff. 
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
+<!-- TITLE -->
 # Redwood Joystick
 
-
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- ---> 
+<!--- SUMMARY ---> 
 The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our [Oak Compact Joystick toppers](https://github.com/makersmakingchange/Oak-Compact-Joystick/tree/main/Build_Files/3D_Printing_Files/Toppers), it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
 
 The device is comprised of off-the-shelf electronics, hardware, and 3D printed parts. The design uses the Ultimarc [Ultrastik analog 360 joystick](https://www.ultimarc.com/arcade-controls/joysticks/ultrastik-360-oval-top-clone/) in a robust 3D printed enclosure.
@@ -105,12 +79,10 @@ Provide any necessary attribution for designs or components that are included in
 --->
 ## Attribution
 
-Designed by Neil Squire Society / Makers Making Change.
+ - Designed by Neil Squire Society / Makers Making Change.
 
-<!---
-This is the attribution for the template.
---->
-The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
+<!--- This is the attribution for the template. --->
+ - The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
 
 <!---
 CONTRIBUTORS
@@ -138,11 +110,12 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: https://github.com/makersmakingchange/Redwood_Joystick/tree/main
+Source Location: https://github.com/makersmakingchange/Redwood_Joystick
 
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -161,3 +134,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
